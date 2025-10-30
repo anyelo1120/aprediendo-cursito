@@ -6,3 +6,4 @@ print(a + b)
 anyelo = 20
 
 b = 40
+anyelo = 70
