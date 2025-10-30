@@ -1,0 +1,8 @@
+a = 30
+b = 60
+print(a + b)        
+
+
+anyelo = 20
+
+b = 40
